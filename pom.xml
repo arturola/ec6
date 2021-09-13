@@ -7,7 +7,8 @@
   <groupId>demoarturo</groupId>
   <artifactId>ec6</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-
+  <packaging>war</packaging>
+  
   <name>ec6</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
